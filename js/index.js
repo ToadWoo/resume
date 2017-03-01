@@ -8,9 +8,9 @@ $(document).ready(function() {
     if (mobilecheck()) {
         $('html').addClass('mobile');
     } else {
-        var en = ['Home', 'Projects', 'Professions', 'Education',
-                'Internship', 'Current Position', 'Contact Me'];
-        var cn = ['首页', '项目', '技能', '教育', '实习', '供职', '联系'];
+        var en = ['Home', 'Projects','Internship', 'Professions', 'Education',
+                 'Contact Me'];
+        var cn = ['首页', '项目','实习', '技能', '教育', '联系'];
         var isCn = window.location.href.indexOf('cn.html') >= 0;
         $('.section').addClass('initing');
         $('#pagepiling').pagepiling({

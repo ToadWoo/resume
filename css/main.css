@@ -325,7 +325,7 @@ ul {
   width: 40px;
   height: 40px;
   background-color: #00214f;
-  background-image: url("/img/social.png");
+  background-image: url("../img/social.png");
   transition: 0.5s;
   display: inline-block;
   margin-right: 2px;
@@ -380,7 +380,7 @@ ul {
 .footer-follow-element {
   width: 32px;
   height: 32px;
-  background-image: url("../../blog/img/social.png");
+  background-image: url("../img/social.png");
   background-size: 160px 60px;
   transition: 1s;
   display: inline-block;
