@@ -2,7 +2,7 @@
 
 #### Web Front-End Engineer
 
-![Toad resume](吴根龙-web前端开发工程师-简历.jpg)
+![Toad resume](吴根龙-Web前端开发工程师-简历.jpg)
 
 
 
