@@ -1,24 +1,20 @@
 {
-  "name": "Wenli Zhang's CV",
+  "name": "GenLongWu's CV",
   "version": "1.0.0",
-  "homepage": "http://zhangwenli.com/cv",
+  "homepage": "http://resume.toadw.cn",
   "authors": [
-    "Wenli Zhang"
+    "GenLong Wu"
   ],
-  "description": "Web Designer and Developer",
+  "description": "Web Front End Developer",
   "keywords": [
-    "CV",
-    "Web Designer",
-    "Web Developer",
+    "resume",
     "Web Front-end"
   ],
   "license": "CC BY 3.0",
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "bower_components"
   ],
   "dependencies": {
     "pagepiling.js": "~0.0.7"
