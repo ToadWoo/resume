@@ -1,32 +1,13 @@
-# CV of Toad
+## 这是一份由自己设计并开发的简历
 
-#### Web Front-End Engineer
+* http://resume.congm.in
 
-![Toad resume](吴根龙-Web前端开发工程师-简历.jpg)
+Fork或借鉴请注明出处 [@ Cong Min](https://congm.in) . Thx
 
+1. 编辑`/src/index.html`文件
+2. 命令行运行`npm run rebuild`
+3. 打开`/index.html`进行预览
 
+> chrome浏览器 - "打印" - 设置无边距 - 即可导出
 
-
-## License
-
-The MIT License (MIT)
-
-Copyright (c) 2015 Ovilia
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+![闵聪-简历](https://raw.githubusercontent.com/mcc108/resume/master/resume.jpg)
