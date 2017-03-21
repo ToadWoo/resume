@@ -666,11 +666,13 @@ footer.print-footer {
 }
 
 ::selection {
-  background: #d1d1d1;
+  background: #00b38a;
+  color: #fff;
 }
 
 ::-moz-selection {
-  background: #d1d1d1;
+  background: #00b38a;
+  color: #fff;
 }
 
 @media print {

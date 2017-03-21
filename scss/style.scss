@@ -563,10 +563,12 @@ footer {
 }
 
 ::selection {
-  background: $color-gray;
+  background: $color-green;
+  color: #fff;
 }
 ::-moz-selection {
-  background: $color-gray;
+  background: $color-green;
+  color: #fff;
 }
 
 // 打印样式
